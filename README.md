@@ -1,5 +1,7 @@
 # eltsu's em26 rollback tool
 
+[Download the latest version](https://github.com/xltsu/project/releases/latest)
+
 A small Windows tool for switching between older Steam builds of Esports Manager 2026.
 
 Pick a version, download it with your own Steam account, then install it from the same menu. The tool keeps a backup of your current game folder so you can switch back later.
